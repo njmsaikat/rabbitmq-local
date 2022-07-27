@@ -4,13 +4,13 @@
     "description": "",
     "main": "publisher.js",
     "scripts": {
-      "publish": "node publisher.js",
-      "consume": "node consumer.js"
+        "publish": "node publisher.js",
+        "consume": "node consumer.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "amqplib": "^0.5.5"
+        "amqplib": "^0.5.6"
     }
-  }
+}
